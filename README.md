@@ -463,10 +463,10 @@ return None
 
 ### Getting Help
 
-- 📋 **Issues**: [GitHub Issues](https://github.com/yourusername/website-scraper-bot/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/website-scraper-bot/discussions)
-- 📧 **Email**: support@yourbot.com
-- 💬 **Telegram**: [@YourSupportBot](https://t.me/YourSupportBot)
+- 📋 **Issues**: [GitHub Issues](https://github.com/TeamOpus/webscrap2/issues)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/TeamOpus/webscrap2/discussions)
+- 📧 **Email**: support@BillaSpace.com
+- 💬 **Telegram**: [@BillaSpace](https://t.me/BillaSpace)
 
 ### Feature Requests
 
