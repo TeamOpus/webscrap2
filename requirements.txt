@@ -1,6 +1,7 @@
 lxml
 pyrogram
 aiohttp
+Tgcrypto
 aiofiles
 Brotli
 beautifulsoup4
