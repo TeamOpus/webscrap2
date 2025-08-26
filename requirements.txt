@@ -1,0 +1,8 @@
+pyrogram
+aiohttp
+aiofiles
+beautifulsoup4
+fake-useragent
+playwright
+selenium
+requests
