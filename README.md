@@ -79,38 +79,39 @@
 ### Quick Start
 
 1. **Clone the repository**
-git clone https://github.com/TeamOpus/webscrap2.git
-cd webscrap2
+`git clone https://github.com/TeamOpus/webscrap2.git`
+`cd webscrap2`
 
 
 2. **Install dependencies**
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 
 3. **Install optional engines** (recommended)
 For JavaScript rendering
-pip install playwright
-playwright install chromium
+`pip install playwright
+playwright install chromium`
 
-For Selenium fallback
-pip install selenium
+For Selenium as fallback
+`pip install selenium`
 
 Download ChromeDriver separately
 
 4. **Configure the bot**
-cp config.py.example config.py
+`vi config.py`
 
 Edit config.py with your credentials
 
 5. **Run the bot**
-python main.py
-
+`python main.py`
+or
+`bash start`
 
 ---
 
 ## ⚙️ Configuration
 
-### Basic Setup
+### Basic Custom Setup 
 
 Create `config.py` with your credentials:
 
@@ -497,7 +498,6 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
-text
 
 ---
 
