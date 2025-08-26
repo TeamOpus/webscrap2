@@ -2,6 +2,7 @@ lxml
 pyrogram
 aiohttp
 aiofiles
+Brotli
 beautifulsoup4
 fake-useragent
 playwright
